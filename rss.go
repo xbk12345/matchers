@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"regexp"
 
-	"../search"
+	"github.com/xbk12345/search"
 )
 
 type (
